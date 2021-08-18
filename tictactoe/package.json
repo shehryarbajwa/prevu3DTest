@@ -1,0 +1,46 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "author": "",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.969.0",
+    "core-js": "^3.6.5",
+    "serverless": "^2.54.0",
+    "serverless-finch": "^2.6.0",
+    "serverless-plugin-common-excludes": "^4.0.0",
+    "serverless-plugin-include-dependencies": "^5.0.0",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/eslint-config-standard": "^5.1.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "eslint-plugin-standard": "^5.0.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "serverless-offline": "^8.0.0",
+    "vue-template-compiler": "^2.6.11",
+    "wscat": "^5.0.0"
+  },
+  "_id": "tictactoe@1.0.0",
+  "keywords": [],
+  "license": "ISC",
+  "readme": "ERROR: No README data found!"
+}
